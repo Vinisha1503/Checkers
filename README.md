@@ -1,4 +1,4 @@
-# Checkers Game (Python)
+# Checkers Game
 
 
 
