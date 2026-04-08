@@ -1,5 +1,8 @@
 # Checkers Game (Python)
 
+<img width="579" height="622" alt="image" src="https://github.com/user-attachments/assets/3741b157-afd6-4fe8-a8fd-2fa34e33e3a6" />
+
+
 ## Overview
 Developed a fully functional checkers game in Python as part of an A-level NEA, featuring both human vs human and rule-based AI gameplay. The application includes an interactive Tkinter GUI, allowing users to move pieces via mouse input on a dynamically updated board. Core game mechanics such as move validation, capturing, turn handling, and king promotion were implemented from scratch. The project uses object-oriented design to separate game logic, board state, and interface components.
 
